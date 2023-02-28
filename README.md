@@ -1,7 +1,7 @@
 # Backend-SpringBoot-PicPay18
 Codificação de Backend em Java com uso do Framework SpringBoot usando Arquitetura MVC com integração dos principais Métodos para requisição de EndPoints
 
-Progamação implementada um UsuarioController, TransacaoController e PgamentoController para direcionar o fluxo da aplicação mapeando e direcionando as ações recebida (request) pela camada da apresentação para os respectivos serviços da aplicação.
+Progamação implementada um UsuarioController, TransacaoController e PagamentoController para direcionar o fluxo da aplicação mapeando e direcionando as ações recebida (request) pela camada da apresentação para os respectivos serviços da aplicação.
 
 A implementação de Interfaces de Usuario, Transacao e Pagamento que é responsável pelas regras de negócios, persistência com o banco de dados e as classes de entidades.
 
